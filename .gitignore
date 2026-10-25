@@ -1,0 +1,23 @@
+# Visual Studio 缓存与个人设置
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# 编译产物（不要提交）
+x64/
+Debug/
+Release/
+bin/
+obj/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
